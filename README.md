@@ -1,4 +1,1 @@
-xorianatorcms
-=============
-
-Own written CMS
+XorianatorCMS wird ein OpenSource CMS für Entwickler
